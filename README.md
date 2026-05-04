@@ -22,6 +22,7 @@ We believe our study provides a rigorous investigation of current latent visual 
 </p>
 
 ## 📰News
+* **[2026.05.01]** 🌞🌞🌞 Our paper has been Accepted by [**ICML2026**](https://icml.cc/Conferences/2026)! Looking forward to seeing you in **Seoul, Korean**.
 * **[2026.02.27]** 🌞🌞🌞 Our paper has been released at [Arxiv](https://arxiv.org/abs/2602.22766) and [Huggingface Daily Papers](https://huggingface.co/papers/date/2026-02-27)!
 * **[2026.02.25]**  🌟🌟🌟 The model weights and datasets are now available on HuggingFace! 🤗 Download and have a try at [Huggingface Model](https://huggingface.co/Michael4933/CapImagine-7B) & [Huggingface Dataset](https://huggingface.co/Michael4933/CapImagine-Data)!
 
